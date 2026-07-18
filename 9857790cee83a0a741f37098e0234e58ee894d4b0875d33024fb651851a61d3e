@@ -1,0 +1,15 @@
+,"Official international bot for CL40 World and LB0025. Releases, campaigns, KPI updates, and verified community announcements in EN/FR/AR/IT/GR Founder COO & CTO (DEV)
+
++7
+Lines changed: 7 additions & 0 deletions
+Original file line number	Diff line number	Diff line change
+npm install
+cp .env.example .env
+# fill .env
+npm run dev
+Discord invite 2 Artists (official):
+"https://discord.gg/Vvgmt4PFk
+"https://discord.gg/4ucb2Yes",
+"https://founder.cl40.world
+"https://press.lb0025.store
+9857790cee83a0a741f37098e0234e58ee894d4b0875d33024fb651851a61d3e
